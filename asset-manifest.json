@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gkolesnikov88/profile-card/static/css/main.35582a2c.css",
+    "main.js": "/gkolesnikov88/profile-card/static/js/main.6f5e912d.js",
+    "static/js/453.f2002b5c.chunk.js": "/gkolesnikov88/profile-card/static/js/453.f2002b5c.chunk.js",
+    "static/media/profile.png": "/gkolesnikov88/profile-card/static/media/profile.68ad6089e2e742054216.png",
+    "index.html": "/gkolesnikov88/profile-card/index.html",
+    "main.35582a2c.css.map": "/gkolesnikov88/profile-card/static/css/main.35582a2c.css.map",
+    "main.6f5e912d.js.map": "/gkolesnikov88/profile-card/static/js/main.6f5e912d.js.map",
+    "453.f2002b5c.chunk.js.map": "/gkolesnikov88/profile-card/static/js/453.f2002b5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35582a2c.css",
+    "static/js/main.6f5e912d.js"
+  ]
+}
