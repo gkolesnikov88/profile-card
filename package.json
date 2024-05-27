@@ -17,7 +17,7 @@
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/gkolesnikov88/profile-card",
+  "homepage": "https://gkolesnikov88.github.io/profile-card",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
