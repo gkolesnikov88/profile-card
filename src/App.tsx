@@ -14,7 +14,7 @@ function App() {
           quote={
             "I turn coffee into bugs which are fixed by someone else. Certified Stack Overflow and ChatGPT developer."
           }
-          contactLink={"/"}
+          contactLink={"https://github.com/gkolesnikov88"}
           github={"https://github.com/gkolesnikov88"}
           linkdin={"https://github.com/gkolesnikov88"}
           instagram={"https://github.com/gkolesnikov88"}
